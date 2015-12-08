@@ -1,0 +1,73 @@
+body {
+	font-family: arial;
+	background-image: url("new_year_background.png");
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+.job-title {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.description {
+	text-align: left;
+	margin-right: 250px;
+	border-bottom-style: double;
+	padding-bottom: 50px;
+}
+
+.sites {
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+.press_shot {
+	width: 30%;
+	border: double;
+	padding: 2px;
+	float: right;
+	margin-right: 75px;
+}
+
+.thumbnails {
+	border:solid;
+}
+
+
+h1 {
+	border-top-style: double;
+	padding-top: 40px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 70px;
+}
+
+h2 {
+	margin-top: 1px;
+	border-bottom-style: double;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+span {
+	font-style: italic;
+}
+
+a {
+	color: black;
+}
+
+h3 {
+	text-align: left;
+	font-size: 25px;
+}
+
+ul {
+	border-bottom-style: double;
+	padding-bottom: 50px;
+}
